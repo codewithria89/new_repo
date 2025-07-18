@@ -1,5 +1,5 @@
 # new_repo
 Trying to learn
 <br>
-author- Ria karn
+author- Ria kumari
 </br>
